@@ -7,7 +7,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🧠  I'm learning Java
 
 <a href="https://www.github.com/Yosuw" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Yosuw?logo=github&style=for-the-badge&color=ec4899&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/Yosuw?logo=github&style=for-the-badge&color=ec4899&labelColor=3386bd" /></a>
 ### Skills
 
 <p align="left">
