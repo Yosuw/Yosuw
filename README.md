@@ -1,4 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yosu
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6793F7&width=435&lines=Hi%2C+everyone!+I'm+Yosu.;Welcome+to+my+Github+profile!+)](https://git.io/typing-svg)
+
+<img src="https://avatars.githubusercontent.com/u/115652448?v=4" alt="Pixel Art" align="right" width="200">
 ================================================================================================================================
 
 * 🌍  I'm based in Paris, France
