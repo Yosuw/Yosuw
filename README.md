@@ -3,7 +3,7 @@
 
 * 🌍  I'm based in Paris, France
 * ✉️  You can contact me at [yosuu.pro@gmail.com](mailto:yosuu.pro@gmail.com)
-* 🚀  I'm currently working on [Nothing]
+* 🚀  I'm currently working on @SenkaRp
 * 🧠  I'm learning Java
 
 <a href="https://www.github.com/Yosuw" target="_blank" rel="noreferrer"><img
